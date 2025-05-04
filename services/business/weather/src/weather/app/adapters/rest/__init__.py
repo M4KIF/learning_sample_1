@@ -1,0 +1,1 @@
+from .analyze_weather import AnalyzeWeatherRest

@@ -1,0 +1,1 @@
+from .domain.kupa import Weather
